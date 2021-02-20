@@ -17,11 +17,11 @@
         <div class="form-group">
             <label for="exampleFormControlSelect1">カテゴリー</label>
             <select class="form-control" id="exampleFormControlSelect1" select name="category">
-            <option value="vitaminc">VitaminC</option>
-            <option value=""></option>
-            <option value=""></option>
-            <option value=""></option>
-            <option value=""></option>
+            <option value="supplement">Supplement</option>
+            <option value="protein">Protein</option>
+            <option value="kosher">Kosher
+            <option value="organic">Organic</option>
+            <option value="others">Others</option>
             </select>
         </div>
 

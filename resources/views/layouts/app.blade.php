@@ -46,9 +46,11 @@
         .card-body{
             text-align: center;
         }
-        p.logo img{ 
+        .logo_block img{ 
             width: 200px;
-            margin-left: 130px;
+            display: block;
+            margin: auto;
+            
         }
 
         

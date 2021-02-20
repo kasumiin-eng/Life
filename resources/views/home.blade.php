@@ -8,7 +8,7 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">
-                <p class="logo"><img src="img/healthyliveslogo.jpg"></p>
+                <div class="logo_block"><img src="img/healthylives.jpg"></div>
                 </div>
 
                 <div class="card-body">
